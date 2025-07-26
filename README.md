@@ -1,4 +1,5 @@
 ## 👋 我很想知道这东西有什么用 👋
+## 😄 不过确实很好玩😄 
 
 <!--
 **ChenYu241/chenyu241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
